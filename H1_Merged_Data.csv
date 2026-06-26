@@ -1,0 +1,53 @@
+Country_std,WVS_Q57__Unnamed: 0,WVS_Q57__Unnamed: 1,WVS_Q57__Most people can be trusted,WVS_Q57__Need to be very careful,WVS_Q57__Don't know,GINI__Country,GINI__Code,GINI__LatestYear,GINI__LatestValue,WVS_Q61__Unnamed: 0,WVS_Q61__Unnamed: 1,WVS_Q61__Some or much trust,WVS_Q61__Little or no trust at all,WVS_Q61__Other missing; Refused,WVS_Q117__Unnamed: 0,WVS_Q117__Unnamed: 1,WVS_Q117__None of them,WVS_Q117__Few of them,WVS_Q117__None_or_few,WVS_Q117__Most of them,WVS_Q117__All of them,WVS_Q117__Most_or_all,WVS_Q117__Don't know,WVS_Q117__No answer,WVS_Q117__Missing; Not available,WVS_Q117__Missing; Not available.1,WVS_Q207__Unnamed: 0,WVS_Q207__Unnamed: 1,WVS_Q207__Daily
+Andorra,Andorra,1004,25.5,74.2,0,Andorra,AND,,,Andorra,1004,29.2,70.3,0.5,Andorra,1004,24.8,54.3,79.1,12.6,4,16.6,0,4.3,0,0,Andorra,1004,45.7
+Argentina,Argentina,1003,19.2,76.2,4,Argentina,ARG,2024,42.4,Argentina,1003,31.6,66.6,1.8,Argentina,1003,5.9,38.3,44.2,33.8,10.5,44.3,10.8,0.7,0,22.7,Argentina,1003,28
+Armenia,Armenia,2723,17.5,82.1,0.3,Armenia,ARM,2023,27.2,Armenia,2723,20.6,79,0.4,Armenia,1223,7.7,29.9,37.6,28.2,19.9,48.1,13.7,0.5,0,0,Armenia,1223,66.6
+Bangladesh,Bangladesh,1200,12.9,87,0.1,Bangladesh,BGD,2022,30.9,Bangladesh,1200,20.6,79.1,0.3,Bangladesh,1200,13.8,49.5,63.3,20.7,4.2,24.9,11.7,0.1,0,0,Bangladesh,1200,14.6
+Bolivia,Bolivia,2067,8.5,90.5,0.7,Bolivia,BOL,2023,42.1,Bolivia,2067,10.5,89.3,0.2,Bolivia,2067,8.5,58.2,66.7,18.5,5.6,24.1,9,0.2,0,0,Bolivia,2067,32.8
+Brazil,Brazil,1762,6.5,91.6,1.6,Brazil,BRA,2023,51.6,Brazil,1762,22.7,75.4,1.9,Brazil,1762,10.2,54.3,64.5,19.7,6.2,25.9,9.1,0.4,0,0,Brazil,1762,51.2
+Canada,Canada,4018,46.7,53.3,0,Canada,CAN,2021,31.1,Canada,4018,49.5,50.5,0,Canada,4018,9.5,65.8,75.3,19.8,4.9,24.7,0,0,0,0,Canada,4018,54.2
+Chile,Chile,1000,12.9,85,1.9,Chile,CHL,2022,43,Chile,1000,25.6,73.8,0.6,Chile,1000,3.5,30.2,33.7,44.8,11.3,56.1,9.8,0.4,0,0,Chile,1000,39.6
+China,China,3036,63.5,35.7,0,China,CHN,2022,36,China,3036,13.4,86.2,0.4,China,3036,10.6,70.6,81.2,16.1,0.5,16.6,0.7,1.4,0.1,0,China,3036,54.4
+Colombia,Colombia,1520,4.5,95.5,0,Colombia,COL,2023,53.9,Colombia,1520,14.3,85.7,0,Colombia,1520,9.4,43.2,52.6,28.2,19.3,47.5,0,0,0,0,Colombia,1520,55.6
+Cyprus,Cyprus,1000,6.6,91,0.7,Cyprus,CYP,2023,31.8,Cyprus,1000,9.3,88.9,1.7,Cyprus,1000,4.8,55.3,60.1,23.2,6.1,29.3,9,1.6,0,0,Cyprus,1000,47.8
+Czech Republic,Czechia,3029,27.3,69,1.4,Czechia,CZE,2023,25.7,Czechia,3029,36.8,60.1,3,Czechia,1200,6.9,55.4,62.3,26.2,6.8,33.0,4.3,0.3,0,0.2,Czechia,1200,34.3
+Ecuador,Ecuador,1200,5.8,92.3,1.5,Ecuador,ECU,2024,45.2,Ecuador,1200,7.8,92,0.2,Ecuador,1200,6.6,51.4,58.0,26.8,12.2,39.0,2.9,0.1,0,0.6,Ecuador,1200,54.9
+Ethiopia,Ethiopia,1230,11.9,87.8,0.3,Ethiopia,ETH,2021,31.1,Ethiopia,1230,47.8,51.9,0.3,Ethiopia,1230,18.2,34.4,52.6,17.2,7.4,24.6,22.4,0.2,0.2,0,Ethiopia,1230,19.7
+Germany,Germany,3706,41.6,54.5,3.1,Germany,DEU,2020,32.4,Germany,3706,30.5,64.9,4.6,Germany,1528,6.9,58.2,65.1,24.9,2.9,27.8,6.7,0.3,0,7.1,Germany,1528,25.7
+Greece,Greece,1200,8.4,90.6,0.8,Greece,GRC,2023,33.4,Greece,1200,9.7,89.4,0.9,Greece,1200,0.4,17.2,17.6,57.3,21.9,79.2,2.9,0.4,0,0,Greece,1200,36.7
+Guatemala,Guatemala,1229,18,82,0,Guatemala,GTM,2023,45.2,Guatemala,1229,18.4,80,1.6,Guatemala,1229,4.5,37.5,42.0,42.1,13.4,55.5,0,2.4,0,0,Guatemala,1229,70.5
+India,India,1692,16.9,81.9,1.2,India,IND,2022,25.5,India,1692,33.4,65.3,1.3,India,1692,11.7,42,53.7,23.7,10.6,34.3,12,0,0,8.1,India,1692,47.7
+Indonesia,Indonesia,3200,4.6,95.3,0,Indonesia,IDN,2024,34.9,Indonesia,3200,9.3,90.6,0.1,Indonesia,3200,30.7,43.6,74.3,16,3.2,19.2,6.4,0.1,0,0,Indonesia,3200,35.8
+Iraq,Iraq,1200,11,86.8,1.9,Iraq,IRQ,2023,29.8,Iraq,1200,24,73.8,2.2,Iraq,1200,20,35.8,55.8,24.6,13.2,37.8,5.6,0.8,0,0,Iraq,1200,54.4
+Japan,Japan,1353,33.7,61,4.3,Japan,JPN,2020,32.3,Japan,1353,10.5,70.4,19.1,Japan,1353,2.2,51.7,53.9,20.8,3.2,24.0,21.3,0.7,0,0,Japan,1353,25.1
+Jordan,Jordan,1203,15.9,83.5,0.6,Jordan,JOR,2010,33.7,Jordan,1203,29.8,69.9,0.3,Jordan,1203,11,30,41,28.2,8.9,37.1,21.9,0,0,0.1,Jordan,1203,53.1
+Kazakhstan,Kazakhstan,1276,22.8,72.6,2.4,Kazakhstan,KAZ,2021,29.2,Kazakhstan,1276,19.8,78.8,1.4,Kazakhstan,1276,18.5,41.4,59.9,14.4,5.6,20.0,15.8,4.4,0,0,Kazakhstan,1276,33.7
+Kenya,Kenya,1266,9.5,89.4,0.6,Kenya,KEN,2022,37.7,Kenya,1266,25,73.8,1.2,Kenya,1266,20.9,50,70.9,17.5,8.5,26.0,2.6,0.5,0,0,Kenya,1266,60
+Lebanon,Lebanon,1200,9.9,90.1,0,Lebanon,LBN,2022,35.3,Lebanon,1200,22.6,77.2,0.2,Lebanon,1200,8.6,35.8,44.4,38.2,14.6,52.8,2.7,0.2,0,0.2,Lebanon,1200,55.2
+Libya,Libya,1196,9.1,89.2,1.1,Libya,LBY,,,Libya,1196,24.8,74.4,0.8,Libya,1196,5,34.9,39.9,36.1,12.5,48.6,10.5,0.8,0.3,0.5,Libya,1196,64.5
+Malaysia,Malaysia,1313,19.6,80.4,0,Malaysia,MYS,2021,40.7,Malaysia,1313,14.9,85.1,0,Malaysia,1313,9.6,58.9,68.5,26.1,5.4,31.5,0,0,0,0,Malaysia,1313,70.1
+Maldives,Maldives,1039,21.1,77.8,0.2,Maldives,MDV,2019,29.3,Maldives,1039,15,84.2,0.8,Maldives,1039,4.1,44.8,48.9,36.1,13.9,50.0,0.8,0.3,0.1,0.1,Maldives,1039,82.3
+Mexico,Mexico,1741,10.5,89.4,0.2,Mexico,MEX,2022,43.5,Mexico,1741,13.1,86.9,0,Mexico,1741,5.5,41.5,47.0,26.5,24,50.5,2.6,0,0,0,Mexico,1741,33.1
+Mongolia,Mongolia,1638,26,73.7,0.3,Mongolia,MNG,2022,31.4,Mongolia,1638,27.1,72.9,0,Mongolia,1638,18.1,42.1,60.2,26.7,13.2,39.9,0,0,0,0,Mongolia,1638,53.4
+Morocco,Morocco,1200,16.5,83.5,0,Morocco,MAR,2013,39.5,Morocco,1200,28.1,71.9,0,Morocco,1200,8.8,48.2,57.0,37.1,6,43.1,0,0,0,4.9,Morocco,1200,69.7
+Myanmar,Myanmar,1200,15.1,84.9,0,Myanmar,MMR,2017,30.7,Myanmar,1200,41.3,58.7,0,Myanmar,1200,18.2,60.4,78.6,13.3,8.1,21.4,0,0,0,0,Myanmar,1200,33.9
+Netherlands,Netherlands,4554,57,37.6,3.4,Netherlands,NLD,2021,25.7,Netherlands,4554,66.4,26.9,6.7,Netherlands,2145,6.4,54.5,60.9,17.2,2.3,19.5,15.5,0.7,3.4,7.3,Netherlands,2145,40
+New Zealand,New Zealand,1057,56.6,38.5,1.6,New Zealand,NZL,,,New Zealand,1057,50,38.9,11.1,New Zealand,1057,5,60.4,65.4,15,2.5,17.5,15,0,2.1,0,New Zealand,1057,39.7
+Nicaragua,Nicaragua,1200,4.2,95.8,0,Nicaragua,NIC,2014,46.2,Nicaragua,1200,10.8,89.2,0,Nicaragua,1200,14.3,52.5,66.8,23.1,10.1,33.2,0,0,0,0.9,Nicaragua,1200,37.4
+Nigeria,Nigeria,1237,13,86.4,0.5,Nigeria,NGA,2022,33.9,Nigeria,1237,26.6,73.2,0.1,Nigeria,1237,5.5,51,56.5,31.7,9.1,40.8,2.6,0,0,0,Nigeria,1237,33.3
+Pakistan,Pakistan,1995,23.3,75.9,0.8,Pakistan,PAK,2018,29.6,Pakistan,1995,34.2,64.6,1.2,Pakistan,1995,8.5,30.9,39.4,27,21.1,48.1,12.1,0.4,0,0,Pakistan,1995,12.4
+Peru,Peru,1400,4.2,95.6,0.2,Peru,PER,2024,40.1,Peru,1400,9,90.4,0.5,Peru,1400,1.6,34,35.6,43.9,17.7,61.6,2.4,0.4,0,0,Peru,1400,39.4
+Philippines,Philippines,1200,5.3,94.5,0,Philippines,PHL,2023,39.3,Philippines,1200,26.9,73.1,0,Philippines,1200,18.9,54.2,73.1,20.6,6.2,26.8,0.1,0,0,0,Philippines,1200,32.4
+Romania,Romania,2873,12.1,86.2,1.4,Romania,ROU,2023,29.8,Romania,2873,11.8,85.1,3.1,Romania,1257,7.8,35.8,43.6,23.8,14.7,38.5,16.9,1,0,0,Romania,1257,32.7
+Russia,Russia,3648,22.9,74.1,2.8,Russian Federation,RUS,2023,33,Russia,3648,22.1,75.6,2.3,Russia,1810,4.8,39.9,44.7,25,14.9,39.9,14.7,0.6,0,0.4,Russia,1810,18.1
+Serbia,Serbia,2566,16.3,80.1,3.3,Serbia,SRB,2022,32.8,Serbia,2566,23.4,75,1.6,Serbia,1046,3.5,25.3,28.8,39.4,22.7,62.1,5.6,2.6,0.9,0,Serbia,1046,42.1
+Singapore,Singapore,2012,34.4,64.9,0,Singapore,SGP,,,Singapore,2012,18,81.6,0.4,Singapore,2012,26.6,58.7,85.3,9.4,1.4,10.8,0,3.9,0,0,Singapore,2012,55.6
+South Korea,South Korea,1245,32.9,67.1,0,"Korea, Rep.",KOR,2021,32.9,South Korea,1245,17.5,82.5,0,South Korea,1245,3.5,54.4,57.9,32.9,9.2,42.1,0,0,0,0,South Korea,1245,15.7
+Thailand,Thailand,1500,28.9,65.6,0,Thailand,THA,2023,33.5,Thailand,1500,27,72.2,0.8,Thailand,1500,14.4,53.1,67.5,26,3.6,29.6,2.9,0,0,0.6,Thailand,1500,49
+Tunisia,Tunisia,1208,13.8,83.2,0,Tunisia,TUN,2021,33.7,Tunisia,1208,30.6,69,0.3,Tunisia,1208,5.5,38.5,44.0,32,20,52,2.9,0.2,0.9,0.7,Tunisia,1208,49.4
+Ukraine,Ukraine,2901,28.4,68.1,3.2,Ukraine,UKR,2020,25.6,Ukraine,2901,23,71.3,5.7,Ukraine,1289,4.3,31.6,35.9,30.1,10.4,40.5,22.5,1.2,0,0,Ukraine,1289,39.4
+United States,United States,2596,37,62.5,0,United States,USA,2023,41.8,United States,2596,39.5,60,0.6,United States,2596,4.7,55,59.7,30.3,8.7,39.0,0.1,1.3,0,0.2,United States,2596,47.8
+Uruguay,Uruguay,1000,14.5,84.9,0.5,Uruguay,URY,2024,40,Uruguay,1000,22.4,75.5,2.1,Uruguay,1000,12.4,48.6,61.0,22.1,6.8,28.9,8.3,1.8,0,0,Uruguay,1000,54.9
+Uzbekistan,Uzbekistan,1250,33.6,63.2,0,Uzbekistan,UZB,2024,34.6,Uzbekistan,1250,21.1,77.4,1.5,Uzbekistan,1250,28.8,39.4,68.2,13.3,4.4,17.7,0,11.2,2.9,0,Uzbekistan,1250,55.1
+Vietnam,Vietnam,1200,27.7,72.3,0,Viet Nam,VNM,2022,36.1,Vietnam,1200,30.8,69.2,0,Vietnam,1200,6.8,75.2,82.0,6.9,1,7.9,8.5,1.6,0,0.2,Vietnam,1200,68.8
+Zimbabwe,Zimbabwe,1215,2.1,97.8,0.1,Zimbabwe,ZWE,2019,50.3,Zimbabwe,1215,25.9,73.7,0.3,Zimbabwe,1215,17.9,42.2,60.1,25.2,7.9,33.1,6.5,0.2,0,0,Zimbabwe,1215,23.5
